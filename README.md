@@ -10,10 +10,10 @@ Fetches weather information based on the provided pincode and date. If the weath
 
 #### Request
 
-#### Example API Request
+##### Example API Request
 GET http://localhost:8080/weather?pincode={pincode}&for_date={date}
 
-#### Example API Response
+##### Example API Response
 json
 Copy code
 {
